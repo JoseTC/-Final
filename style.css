@@ -49,3 +49,8 @@ p{
 	color: white;
 	font-family: 'Ubuntu Mono', monospace;
 }
+a{
+	font-size: 20px;
+	color: pink;
+	font-family: 'Ubuntu Mono', monospace;
+}
