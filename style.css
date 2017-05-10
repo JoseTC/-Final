@@ -57,5 +57,8 @@ a{
 }
 table,th,td{
 	border: 1px solid red;
-	 
+
+}
+tr:hover{
+	background-color: black;
 }
