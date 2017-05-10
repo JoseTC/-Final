@@ -43,9 +43,6 @@ tbody{
 	font-size: 20px;
 	color: white;
 	font-family: 'Ubuntu Mono', monospace;
-	border-style: solid;
-	border-width: thick;
-	border-color: red;
 }
 p{
 	font-size: 15px;
@@ -57,4 +54,8 @@ a{
 	color: pink;
 	font-family: 'Ubuntu Mono', monospace;
 
+}
+table,th,td{
+	border: 1px solid red;
+	 
 }
