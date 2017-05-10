@@ -53,4 +53,9 @@ a{
 	font-size: 20px;
 	color: pink;
 	font-family: 'Ubuntu Mono', monospace;
+
+}
+table{
+	border-style: solid;
+	border-width: 20px;
 }
