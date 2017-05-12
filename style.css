@@ -50,6 +50,7 @@ p{
 	font-size: 15px;
 	color: white;
 	font-family: 'Ubuntu Mono', monospace;
+	text-align: center;
 }
 a{
 	font-size: 20px;
@@ -68,9 +69,9 @@ tr:hover{
 #hello{
 	font-size: 30px;
 	color: #ff2d2d;
+	outline: white dotted thick;
 }
 #no{
 	font-size: 50px;
 	color: red;
-	outline: red dotted thick;
 }
