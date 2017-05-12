@@ -62,3 +62,11 @@ table,th,td{
 tr:hover{
 	background-color: #ff0000;
 }
+#hello{
+	font-size: 30px;
+	color: #ff2d2d;
+}
+#no{
+	font-size: 50px;
+	color: red;
+}
