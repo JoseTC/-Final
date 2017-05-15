@@ -75,3 +75,7 @@ tr:hover{
 	font-size: 50px;
 	color: red;
 }
+table{
+	width: 100%;
+	height: auto;	
+}
