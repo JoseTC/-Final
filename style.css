@@ -1,10 +1,6 @@
 img{
 	height: 400px;
 	width: auto;
-	display: block;
-	margin: auto;
-	
-
 }
 body{
   background: url("games.jpg") no-repeat center center fixed;
@@ -14,18 +10,18 @@ body{
   background-size: cover;
 }
 @keyframes swageffect{
-	0% {color:#2d2dff;}
-	25% {color:#2dff33;}
-	50% {color:#ff2d2d;}
-	75% {color:#ff2df8;}
-	100% {color:#2de3ff;}
+	0% {color:#ff00e5;}
+	25% {color:#0000ff;}
+	50% {color:#faff00;}
+	75% {color:#00ff04;}
+	100% {color:#ff0000;}
 }
 @-webkit-keyframes swageffect{
-	0% {color:#2d2dff;}
-	25% {color:#2dff33;}
-	50% {color:#ff2d2d;}
-	75% {color:#ff2df8;}
-	100% {color:#2de3ff;}
+	0% {color:#ff00e5;}
+	25% {color:#0000ff;}
+	50% {color:#faff00;}
+	75% {color:#00ff04;}
+	100% {color:#ff0000;}
 }
 h1{
 	-webkit-animation-name: swageffect; /*Safari 4.0 - 8.0*/
