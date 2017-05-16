@@ -1,7 +1,10 @@
 img{
 	height: 400px;
 	width: auto;
-	align-items: center;
+	display: block;
+	margin: auto;
+	
+
 }
 body{
   background: url("games.jpg") no-repeat center center fixed;
