@@ -60,6 +60,7 @@ a{
 table,th,td{
 	border: 1px solid white;
 	text-align: center;
+	background-image: url("last.jpg");
 
 }
 tr:hover{
