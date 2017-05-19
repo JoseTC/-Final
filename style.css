@@ -60,7 +60,6 @@ a{
 table,th,td{
 	border: 1px solid white;
 	text-align: center;
-	background-image: url("my.png");
 
 }
 tr:hover{
@@ -72,8 +71,16 @@ tr:hover{
 	outline: black dotted thin;
 }
 #no{
-	font-size: 50px;
-	color: red;
+		-webkit-animation-name: swageffect; /*Safari 4.0 - 8.0*/
+		-webkit-animation-duration: 2s;
+		animation-name; swageffect;
+		font-size: 60px;
+		animation-duration: 2s;
+		animation-iteration-count: infinite;
+		font-size: 60px;
+		color: white;
+		font-family: 'Press Start 2P', cursive;
+		text-align: center;
 }
 table{
 	width: 100%;
